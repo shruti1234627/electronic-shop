@@ -25,3 +25,19 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+### ng new electronic-shop
+
+### install bootstrap, jquery, popper.js by npm install --save bootstrap
+
+### npm install --save jquery
+
+### npm install --save popper.js
+
+#### in Angular.json : styles:"node_modules/bootstrap/dist/css/bootstrap.min.css"
+
+#### in scripts :"node_modules/jquery/dist/jquery.slim.min.js",
+
+#### "node_modules/popper.js/dist/umd/popper.min.js",
+
+#### "node_modules/bootstrap/dist/js/bootstrap.min.js"
