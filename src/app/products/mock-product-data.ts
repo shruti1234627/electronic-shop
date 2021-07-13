@@ -21,6 +21,16 @@ export class MockData {
             'brand': 'DELL',
             'price': 59990,
             
+        },
+        {
+            'id' : 3,
+            'title': 'I phone',
+            'modelName': '12 R',
+            'color': 'Black',
+            'productType': 'Mobile',
+            'brand': 'Apple',
+            'price': 79999,
+            
         }
     ]
 }
